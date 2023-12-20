@@ -1,6 +1,6 @@
 Name:		texlive-scsnowman
-Version:	54080
-Release:	2
+Version:	66115
+Release:	1
 Summary:	Snowman variants using TikZ
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scsnowman
