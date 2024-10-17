@@ -3,7 +3,7 @@ Version:	66115
 Release:	1
 Summary:	Snowman variants using TikZ
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/scsnowman
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/scsnowman
 License:	bsd2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scsnowman.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/scsnowman.doc.r%{version}.tar.xz
